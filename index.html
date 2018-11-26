@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>TODO List</title>
+</head>
+
+<body>
+    <div>
+        <input type="text" id="input-todo">
+        <button id="add">Add TODO</button>
+    </div>
+    <div>
+        <ul id="todo-list"></ul>
+    </div>
+    <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
